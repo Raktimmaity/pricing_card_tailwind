@@ -1,0 +1,1 @@
+# This is a simple pricing card using html and tailwind css
